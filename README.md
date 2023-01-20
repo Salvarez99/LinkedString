@@ -1,4 +1,4 @@
-# Albany-Project02
+# LinkedString
 Topic: LinkedList
 
 ## Project Description
